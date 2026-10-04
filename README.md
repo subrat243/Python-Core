@@ -1,46 +1,35 @@
-# Python Study Roadmap
+# Python Notes Repository
 
-This repository is a beginner-friendly Python learning path designed for step-by-step study.
+This repository is a personal space for uploading Python notes, study content, code snippets, examples, and small practice files.
 
-## Content
+It is not a formal course. Instead, it is designed to keep learning material organized in one place as you study and build your understanding step by step.
 
-The course is arranged in the following order:
+## What goes here
 
-1. [Lessons/01. Python Fundamentals.md](Lessons/01.%20Python%20Fundamentals.md)  
-   Learn what Python is, how programming works, installing Python, and writing your first script.
+You can upload:
 
-2. [Lessons/02. Printing & Variables.md](Lessons/02.%20Printing%20&%20Variables.md)  
-   Learn about `print()`, variables, naming rules, f-strings, and modules.
-
-3. [Lessons/03. Data Types.md](Lessons/03.%20Data%20Types.md)  
-   Learn about strings, integers, floats, booleans, lists, tuples, sets, and dictionaries.
-
-4. [Lessons/04. Type Checking, Typecasting & User Input.md](Lessons/04.%20Type%20Checking,%20Typecasting%20&%20User%20Input.md)  
-   Learn about `type()`, type conversion, implicit conversion, explicit casting, and `input()`.
-
-## Suggested study flow
-
-- Start with the fundamentals lesson.
-- Work through each lesson in order.
-- Practice each concept by writing small Python scripts.
-- Use the [Practice](Practice) folder for exercises, notes, and mini-projects.
+- topic notes
+- short explanations
+- example Python scripts
+- practice exercises
+- cheat sheets
+- mistakes and solutions
+- useful references
 
 ## Repository layout
 
-- [Lessons](Lessons) — study notes and lesson content
-- [Practice](Practice) — hands-on coding exercises and practice files
+- [Lessons](Lessons) — uploaded lesson notes and study content
+- [Practice](Practice) — coding practice and experiment files
+- [Notes](Notes) — personal note files and summaries
 - [LICENSE](LICENSE) — repository license
 
-## Learning goal
+## Suggested use
 
-By the end of this study path, you will have a solid foundation in Python basics, including:
-
-- writing simple programs
-- using variables and data types
-- working with user input
-- converting values between types
-- understanding basic Python syntax
+- add notes whenever you learn a new concept
+- keep examples simple and clear
+- store practice code in [Practice](Practice)
+- organize files by topic or date when needed
 
 ---
 
-This repo is intended for Python study, practice, and gradual learning at your own pace.
+This repo is meant to be a personal Python knowledge base, not a structured course syllabus.
