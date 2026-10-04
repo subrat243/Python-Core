@@ -2,7 +2,7 @@
 
 This repository is a beginner-friendly Python learning path designed for step-by-step study.
 
-## Course structure
+## Content
 
 The course is arranged in the following order:
 
