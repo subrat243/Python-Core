@@ -1,35 +1,34 @@
-# Python Notes Repository
+# Python Study Repository
 
-This repository is a personal space for uploading Python notes, study content, code snippets, examples, and small practice files.
+This repository is organized to store Python notes, examples, and practice materials in a simple and structured way.
 
-It is not a formal course. Instead, it is designed to keep learning material organized in one place as you study and build your understanding step by step.
+It is intended as a learning workspace for Python concepts, code examples, exercises, and reference notes.
 
-## What goes here
+## Contents
 
-You can upload:
+This repo can include:
 
 - topic notes
 - short explanations
-- example Python scripts
+- Python example scripts
 - practice exercises
-- cheat sheets
-- mistakes and solutions
-- useful references
+- reference snippets
+- revision material
 
 ## Repository layout
 
-- [Lessons](Lessons) — uploaded lesson notes and study content
-- [Practice](Practice) — coding practice and experiment files
-- [Notes](Notes) — personal note files and summaries
+- [Lessons](Lessons) — lesson notes and study material
+- [Practice](Practice) — coding exercises and sample implementations
+- [Notes](Notes) — summary notes and quick references
 - [LICENSE](LICENSE) — repository license
 
-## Suggested use
+## Recommended usage
 
-- add notes whenever you learn a new concept
-- keep examples simple and clear
-- store practice code in [Practice](Practice)
-- organize files by topic or date when needed
+- add notes for each topic as it is studied
+- keep examples clear and easy to understand
+- store practice files in [Practice](Practice)
+- organize files by topic, date, or concept
 
 ---
 
-This repo is meant to be a personal Python knowledge base, not a structured course syllabus.
+This repository is designed as a Python study and reference workspace.
