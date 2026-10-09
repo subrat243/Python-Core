@@ -1,3 +1,4 @@
+# Convert a string port value to an integer.
 port = "443"
 
 print(type(port))
@@ -13,4 +14,3 @@ result = int(port) + timeout
 
 print(result)
 print(type(result))
-
