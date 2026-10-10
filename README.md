@@ -4,7 +4,7 @@ This repository is organized to store Python notes, examples, and practice mater
 
 It is intended as a learning workspace for Python concepts, code examples, exercises, and reference notes.
 
-<!-- Keep this list aligned with the lesson files in the repository. -->
+
 ## Contents
 
 This repo can include:
