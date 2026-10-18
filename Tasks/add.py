@@ -1,3 +1,5 @@
+# Task: Write a python program to add two numbers.
+
 # Read two numbers as text, then convert them to integers for addition.
 a = input("Enter a number: ")
 b = input("Enter another number: ")
