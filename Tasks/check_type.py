@@ -1,3 +1,5 @@
+# Task: Check the type of variable assigned using input () function.
+
 # input() returns the entered value as a string.
 var = input("Enter a value: ")
 
