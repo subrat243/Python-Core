@@ -3,11 +3,25 @@ b = "world"
 c = '''This is a multi-line string. 
 It can span multiple lines.'''
 
+word = "Python"
+
 print(a)
 print(b)
 print(c)
+print(word)
 
 print(a[0])  # Accessing the first character of the string 'a'
 print(a[2])
 print(a[-1])  # Accessing the last character of the string 'a'
 
+print(word[0:3])  # Slicing the string 'word' to get the first three characters
+print(word[2:5])  # Slicing the string 'word' to get characters from index 2 to 5
+print(word[:4])   # Slicing the string 'word' to get the first four characters
+print(word[2:]) # Slicing the string 'word' to get characters from index 2 to the end
+print(word[:])  # Slicing the string 'word' to get every character
+print(word[:-1])  # Slicing the string 'word' to reverse it
+print(word[::-1])  # Slicing the string 'word' to reverse it
+print(word[::2])  # Slicing the string 'word' to get every second character
+print(word[1::2])  # Slicing the string 'word' to get every second character starting from index 1
+print(word[2:5:1]) # Slicing the string 'word' to get characters from index 2 to 5 with a step of 1
+print(word[2:5:2]) # Slicing the string 'word' to get characters from index 2 to 5 with a step of 2
