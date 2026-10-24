@@ -25,3 +25,10 @@ print(word[::2])  # Slicing the string 'word' to get every second character
 print(word[1::2])  # Slicing the string 'word' to get every second character starting from index 1
 print(word[2:5:1]) # Slicing the string 'word' to get characters from index 2 to 5 with a step of 1
 print(word[2:5:2]) # Slicing the string 'word' to get characters from index 2 to 5 with a step of 2
+
+print(len(word))  # Getting the length of the string 'word'
+print(word.count('o'))  # Counting the occurrences of 'o' in the string 'word'
+print(word.find('t'))  # Finding the index of the first occurrence of 't'
+print(word.replace('P', 'J'))  # Replacing 'P' with 'J' in the string 'word'
+print(word.upper())  # Converting the string 'word' to uppercase
+print(word.lower())  # Converting the string 'word' to lowercase
