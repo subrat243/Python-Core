@@ -32,3 +32,8 @@ print(word.find('t'))  # Finding the index of the first occurrence of 't'
 print(word.replace('P', 'J'))  # Replacing 'P' with 'J' in the string 'word'
 print(word.upper())  # Converting the string 'word' to uppercase
 print(word.lower())  # Converting the string 'word' to lowercase
+
+print("Hello\nWorld")
+print("Hello\tWorld")
+print('It\'s Python')
+print("C:\\Users\\Harry")
